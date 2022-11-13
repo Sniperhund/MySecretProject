@@ -1,0 +1,7 @@
+# ninja log v5
+9	2708	6899798944978667	CMakeFiles/MySecretProject.dir/main.cpp.obj	f09a02eabdbd5487
+2709	3445	6899798952293804	MySecretProject.exe	95e654fa10b966cb
+14	4017	6899710781226738	CMakeFiles/MySecretProject.dir/src/attack/Move.cpp.obj	dcdcb345e3e73573
+35	5344	6899737436732049	CMakeFiles/MySecretProject.dir/src/Util.cpp.obj	bdf9ea4bc2ee0d69
+3	612	6899804740680994	build.ninja	16ab103850707934
+24	6154	6899737444776397	CMakeFiles/MySecretProject.dir/src/Attacks.cpp.obj	55586412d400f2fb

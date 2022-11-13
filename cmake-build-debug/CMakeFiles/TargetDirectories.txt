@@ -1,0 +1,3 @@
+C:/Users/Lucas/CLionProjects/MySecretProject/cmake-build-debug/CMakeFiles/MySecretProject.dir
+C:/Users/Lucas/CLionProjects/MySecretProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lucas/CLionProjects/MySecretProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
